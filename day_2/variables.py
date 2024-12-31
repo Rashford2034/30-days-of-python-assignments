@@ -112,10 +112,24 @@ area_of_circle = 2827
 
 circum_of_circle = 188
 
+first_name = input('What is your name: ')
 
+age = input('How old are you? ')
 
+print(first_name)
 
+print(age)
 
+last_name = input('what is your last name: ')
 
+print(last_name)
 
+country = input('Nigeria')
 
+print(country)
+
+city = input('Lagos')
+
+print(city)
+
+help('keywords')
